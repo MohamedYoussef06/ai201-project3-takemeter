@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": NaN,
+  "finetuned_accuracy": 0.8125,
+  "improvement": NaN,
+  "test_set_size": 32,
+  "label_map": {
+    "strategy": 0,
+    "hype": 1,
+    "complaint": 2
+  },
+  "model": "distilbert-base-uncased"
+}
